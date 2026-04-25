@@ -67,7 +67,7 @@ AbarrotesAngy/
 ## Tecnologías
 
 - **Backend:** PHP 8+ con PDO
-- **Base de datos:** MySQL (via XAMPP)
+- **Base de datos:** PostgreSQL 
 - **Frontend:** HTML5, CSS3, JavaScript vanilla
 - **Patrón:** MVC (Modelo-Vista-Controlador)
 "# Sistema de Información Abarrotes"
